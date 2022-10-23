@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/primer_reac_proyect/static/css/main.389c45ed.css",
-    "main.js": "/primer_reac_proyect/static/js/main.4ca6023b.js",
-    "index.html": "/primer_reac_proyect/index.html",
-    "main.389c45ed.css.map": "/primer_reac_proyect/static/css/main.389c45ed.css.map",
-    "main.4ca6023b.js.map": "/primer_reac_proyect/static/js/main.4ca6023b.js.map"
+    "main.css": "/todo-list/static/css/main.389c45ed.css",
+    "main.js": "/todo-list/static/js/main.4ca6023b.js",
+    "index.html": "/todo-list/index.html",
+    "main.389c45ed.css.map": "/todo-list/static/css/main.389c45ed.css.map",
+    "main.4ca6023b.js.map": "/todo-list/static/js/main.4ca6023b.js.map"
   },
   "entrypoints": [
     "static/css/main.389c45ed.css",
